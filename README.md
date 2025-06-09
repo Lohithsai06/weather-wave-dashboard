@@ -13,7 +13,8 @@
   </h3>
   <p><i>With Animations, Smooth UI & Modern Design!</i></p>
 
-  <img src="https://i.imgur.com/VEzjPHn.gif" alt="Weather App Demo" width="600" />
+![dashboard](https://github.com/user-attachments/assets/2c3e52e5-3fb9-49e5-ad57-c02db063c568)
+ 
   
 </div>
 
