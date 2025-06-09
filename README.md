@@ -17,7 +17,27 @@
  
   
 </div>
-
+ <br/>
+  <br/>
+  
+  <div align="center">
+    <a href="https://weather-wave-dashboard.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/✨%20LIVE%20DEMO-Visit%20Weather%20Dashboard-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=2334D058" alt="Live Demo" width="300"/>
+    </a>
+  </div>
+  
+  <h3>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" width="24" />
+    <a href="https://weather-wave-dashboard.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <span style="background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">weather-wave-dashboard.vercel.app</span>
+    </a>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" width="24" />
+  </h3>
+  
+  <p>
+    <a href="https://weather-wave-dashboard.vercel.app/" target="_blank">
+    
+ 
 ---
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28" /> Features
